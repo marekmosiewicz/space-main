@@ -23,6 +23,7 @@
 package org.incisium.space.main;
 
 import org.incisium.space.conn.Socket;
+import org.incisium.space.exec.Command;
 import org.incisium.space.exec.Selector;
 import org.incisium.space.store.Store;
 
@@ -32,4 +33,5 @@ import org.incisium.space.store.Store;
  * @author Marek Mosiewicz<contact@marekmosiewicz.pl>
  */
 public interface Loadable extends Selector{
+    public Command loadcommand();
 }
