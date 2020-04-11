@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.incisium.space</groupId>
+    <artifactId>space-main</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <name>Universe Space interfaces</name>
+    <description>This is main interface project for remoting of Incisium Platform
+                It abstract remote server in way that are independent of
+                accessing if locally or via network.
+                It also privides base for universal persistable object hierarchy.
+    </description>
+    <licenses>
+        <license>
+            <name>GNU General Public License 3+</name>
+            <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+            <comments>All sources are available with GPL3+ license</comments>
+        </license>
+        <license>
+            <name>Commercial license option</name>
+            <url>http://jotel.com.pl/incisium/licenses/commercial.en.html</url>
+            <comments>You can obtain commercial license from Jotel Mosiewiczwie Spółka Jawna if required</comments>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Marek Andrzej Mosiewicz</name>
+            <email>marek.mosiewicz@jotel.com.pl</email>
+            <organization>Jotel Mosiewiczowie Spółka Jawna</organization>                       
+        </developer>
+    </developers>
+    <inceptionYear>2020</inceptionYear>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+</project>
