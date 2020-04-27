@@ -22,10 +22,12 @@
 
 package org.incisium.space.view;
 
+import org.incisium.space.Navigable;
+
 /**
  *
  * @author Marek Mosiewicz<contact@marekmosiewicz.pl>
  */
-public interface Page {
+public interface Page extends Navigable{
 
 }

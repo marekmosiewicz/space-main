@@ -22,6 +22,7 @@
 
 package org.incisium.space.view;
 
+import org.incisium.space.Navigable;
 import org.incisium.space.main.Root;
 import org.incisium.space.main.Space;
 import org.incisium.space.main.Item;
@@ -45,8 +46,8 @@ public interface Cursor {
     
     public Orderable getOrder();
     
-    public Page getNextPage();
-    public Page getPrevPage();
+    public Navigable getNextPage();
+    public Navigable getPrevPage();
     public int getPageNumber();
     public Page setPageNumber(int pageNumber);
     public boolean isNextPageFetched();    
