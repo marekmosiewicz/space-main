@@ -1,21 +1,32 @@
- * Copyright (C) 2020 Marek Andrzej Mosiewicz
- *
- * As CODE USER You have this licensing options to fit your needs best 
- *   GNU Lesser General Public License v2.1 or later (SPDX: LGPL-2.1-or-later) , 
- *   GNU General Public License v2.0 or later (SPDX: GPL-2.0-or-later),
- *   Apache License 2.0 (SPDX: Apache-2.0)
- *   MIT License (SPDX:MIT)
- * 
- * As CODE CONTRIBUTOR You grant that CODE USER can choose any
- * free software license listed above and You will not limit 
- * free software license list in future if new circumstances will 
- * emerge
- * (e.g. license which better address cross license compatibility
- * will appear or license which better address free software
- * patents protection will appear)
- *
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
+ CAST License v 0.5
+
+ This code project (software) has copyright law obligations:
+
+ 1. As CODE USER You can choose one or more licensing options listed below :
+     - GNU Lesser General Public License v2.1 or later (SPDX: LGPL-2.1-or-later) 
+     - GNU General Public License v2.0 or later (SPDX: GPL-2.0-or-later)
+     - Apache License 2.0 (SPDX: Apache-2.0)
+     - MIT License (SPDX:MIT)
+
+ 2. This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+ 
+ 3. As CODE CONTRIBUTOR or COPYRIGHT HOLDER You grant that CODE USER
+     can choose any free software license listed above and You will not limit 
+     open source  software license list in future if new circumstances
+     will emerge (e.g. license which better address cross license compatibility
+     will appear or license which better address free software
+     patents protection will appear)
+
+ 4. As LICENSE USER you are free to modify or improve THIS LICENSE as long
+     as You give it DISTINCT name
+  
+ 5. If you have rights to project source code You can apply THIS LICENSE
+    to project You put text of this license in root folder of source 
+    code project in file named "LICENSE". In case when some source code files 
+    are covered by different license they sould be listed in LICEXEP file.
+
+
+
+ 
